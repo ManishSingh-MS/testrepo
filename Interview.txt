@@ -1,0 +1,45 @@
+SEO- Search Engine Optimization (digital marketing)
+Front End - Customer facing like Apps
+Backend Engineers- Java Script, Python, PHP
+Full Stat - Both Front end and back end.
+Dev Ops - Devlopment Operations, Code merge ops, Release etc.
+
+
+
+API's Working. - Application Programming Interface.
+    1. software intermediary that allows two applications to talk to each other.
+    2.  an API is the messenger that delivers your request to the provider that you’re requesting it from and then delivers the response back to you.
+    3. Simple Object Access Protocol (SOAP)
+
+
+How does Internet work.
+Lamp Stack - Linus OS, Apache HTTP Server, My SQL and PHP Language.
+
+mini ERP for school
+
+Design and digital marketing
+MVP
+Agile methodologies - Spiral Model
+
+
+scrum - 
+making information transparent so that people can inspect and adapt based on current conditions
+Organizations that have adopted agile Scrum have experienced:
+
+Higher productivity
+Better-quality products
+Reduced time to market
+Improved stakeholder satisfaction
+Better team dynamics
+Happier employees
+
+
+
+Company - CEO
+CTO
+Product
+Total Size - 18 + 4 Interns
+1 Android developer, 1 Web developer
+2 Backend Engineers
+2 SEO
+1 Design
